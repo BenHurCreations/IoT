@@ -15,7 +15,7 @@ The data is presented via smart dashboards.
 <img src="https://github.com/BenHurCreations/IoT/blob/main/Images/CPX.jpg" alt="CPX" width="150" height="115"/>
 
 4. Blynk - widgets world + wifi connectivity
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Blynk.png" alt="Blynk" width="120" height="50"/>
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Blynk.png" alt="Blynk" width="100" height="40"/>
 
 
 5. Integromat - automating processes

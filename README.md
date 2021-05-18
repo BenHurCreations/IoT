@@ -1,20 +1,27 @@
 # IoT
-IoT projects to automate daily tasks including HW &amp; SW
+IoT projects to automate daily tasks including HW & SW.
+Every project is basically a smart brain which connects real life experiences with automated responses, which all together provide a simpler way to live.  
+Actions like activating the boilermaker, lights & TV, or waking up in the morning become more elegant & require less effort.
+The data is presented via smart dashboards.
+
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Connect.jpg" alt="Connect" width="250" height="120"/>
 
 ## Technologies
 1. Arduino - development environment 
-
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Arduino.jpg" alt="arduino" width="100" height="50"/>
 
 2. C++ - Coding language
 3. Adafruit Circuit Playground (CPX) - sensors & real world interactions
-
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/CPX.jpg" alt="CPX" width="200" height="150"/>
 
 4. Blynk - widgets world + wifi connectivity
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Blynk.png" alt="Blynk" width="120" height="50"/>
 
 
 5. Integromat - automating processes
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Integromat.png" alt="Integromat" width="200" height="80"/>
 
-
+# Projects
 ## #1 Electro Singer
 **Electro Singer** is our first device built with adafruit circuit playground.  
 It uses ports A1-A5 to detect tapping on 5 different veggies-  
@@ -85,3 +92,13 @@ This data + the time it took to the user to wake up from bed and finish the joys
     
 ## Final Project
 
+**Tanny**- your personal tan manager.  
+A detailed guide was made using instructables plaform.  
+The guide includes DIY instructions, project deep explanation, technologies involved & a great documentaion video.  
+Please follow the link to the guide --->  
+Link to instructables- https://www.instructables.com/Tanny-Tan-Manager/
+
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Final.PNG" alt="final" width="200" height="150"/>  
+  
+    
+**Special thanks** to Gal Kimron & Hadar Okashi

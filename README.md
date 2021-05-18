@@ -98,7 +98,7 @@ A detailed guide was made using instructables plaform.
 The guide includes DIY instructions, project deep explanation, technologies involved & a great documentaion video.  
 Please follow the link to the guide ---> https://www.instructables.com/Tanny-Tan-Manager/
 
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Final.PNG" alt="final" width="350" height="275"/>  
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Final.PNG" alt="final" width="500" height="275"/>  
   
     
 **Special thanks** to Gal Kimron & Hadar Okashi

@@ -8,7 +8,7 @@ The data is presented via smart dashboards.
 
 ## Technologies
 1. Arduino - development environment 
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Arduino.jpg" alt="arduino" width="150" height="75"/>
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Arduino.jpg" alt="arduino" width="120" height="60"/>
 
 2. C++ - Coding language
 3. Adafruit Circuit Playground (CPX) - sensors & real world interactions
@@ -19,7 +19,7 @@ The data is presented via smart dashboards.
 
 
 5. Integromat - automating processes
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Integromat.png" alt="Integromat" width="200" height="70"/>
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Integromat.png" alt="Integromat" width="170" height="50"/>
 
 # Projects
 ## #1 Electro Singer

@@ -8,7 +8,7 @@ The data is presented via smart dashboards.
 
 ## Technologies
 1. Arduino - development environment 
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Arduino.jpg" alt="arduino" width="200" height="100"/>
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Arduino.jpg" alt="arduino" width="150" height="75"/>
 
 2. C++ - Coding language
 3. Adafruit Circuit Playground (CPX) - sensors & real world interactions
@@ -27,11 +27,11 @@ The data is presented via smart dashboards.
 It uses ports A1-A5 to detect tapping on 5 different veggies-  
 avocado, guyava, clemantine, banana & potato!
 
-Each tap changes the capacitivity values of the sensors and triggers a relevant sound.  
-We used the light sensor to determine the music tone.  
-With regular light we have medium tone. With extra light we have higher tone,   
+- Each tap changes the capacitivity values of the sensors and triggers a relevant sound.  
+- We used the light sensor to determine the music tone.  
+- With regular light we have medium tone. With extra light we have higher tone,   
 and with little light we have low tone.  
-The second output is led light. Any tap the code produces a different color.  
+- The second output is led light. Any tap the code produces a different color.  
 
 We chose to play "Little Yonatan", the beloved children's song.
 
@@ -58,7 +58,7 @@ Each tap changes the capacitivity values of the sensors and triggers a relevant 
 15 minutes before wake-up time sunrise leds are activated. The colors change from shades of red to orange and finally to yellow.  
 The alarm clock is then set and the music begins. Simultaneously the wake up leds (yellow) continue to light.  
 The user now needs to activate a certain password using the joystick. Once he succeeds, the led lights light colorfuly and the alarm clock is stopped.  
-The clock contnues to work, and the user is asked if he slept good or not. He answers using the rught & left buttons.  
+The clock continues to work, and the user is asked if he slept good or not. He answers using the rught & left buttons.  
 This data + the time it took to the user to wake up from bed and finish the joystick challenge is stored for future analysis.  
   
   ### The circuit:
@@ -93,12 +93,12 @@ This data + the time it took to the user to wake up from bed and finish the joys
 ## Final Project
 
 **Tanny**- your personal tan manager.  
+  
 A detailed guide was made using instructables plaform.  
 The guide includes DIY instructions, project deep explanation, technologies involved & a great documentaion video.  
-Please follow the link to the guide --->  
-Link to instructables- https://www.instructables.com/Tanny-Tan-Manager/
+Please follow the link to the guide ---> https://www.instructables.com/Tanny-Tan-Manager/
 
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Final.PNG" alt="final" width="200" height="150"/>  
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Final.PNG" alt="final" width="350" height="275"/>  
   
     
 **Special thanks** to Gal Kimron & Hadar Okashi

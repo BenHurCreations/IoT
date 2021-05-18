@@ -4,22 +4,22 @@ Every project is basically a smart brain which connects real life experiences wi
 Actions like activating the boilermaker, lights & TV, or waking up in the morning become more elegant & require less effort.
 The data is presented via smart dashboards.
 
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Connect.jpg" alt="Connect" width="250" height="120"/>
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Connect.jpg" alt="Connect" width="500" height="250"/>
 
 ## Technologies
 1. Arduino - development environment 
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Arduino.jpg" alt="arduino" width="100" height="50"/>
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Arduino.jpg" alt="arduino" width="200" height="100"/>
 
 2. C++ - Coding language
 3. Adafruit Circuit Playground (CPX) - sensors & real world interactions
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/CPX.jpg" alt="CPX" width="200" height="150"/>
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/CPX.jpg" alt="CPX" width="150" height="115"/>
 
 4. Blynk - widgets world + wifi connectivity
 <img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Blynk.png" alt="Blynk" width="120" height="50"/>
 
 
 5. Integromat - automating processes
-<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Integromat.png" alt="Integromat" width="200" height="80"/>
+<img src="https://github.com/BenHurCreations/IoT/blob/main/Images/Integromat.png" alt="Integromat" width="200" height="70"/>
 
 # Projects
 ## #1 Electro Singer
